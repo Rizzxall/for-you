@@ -5,7 +5,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #000;
+  background-color: red;
   font-family: 'Georgia', serif;
   color: #fff;
 }
